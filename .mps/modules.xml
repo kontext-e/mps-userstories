@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/de.kontext_e.userstories/de.kontext_e.userstories.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/de.kontext_e.userstories/sandbox/de.kontext_e.userstories.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
